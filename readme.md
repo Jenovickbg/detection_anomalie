@@ -17,7 +17,7 @@ L'algorithme identifie les anomalies dans un ensemble de données en isolant les
 
 1. Clonez ce repository sur votre machine locale :
    ```bash
-   git clone https://github.com/USER/REPOSITORY_NAME.git
+   git clone https://github.com/Jenovickbg/detection_anomalie.git
    ```
 
 
@@ -44,5 +44,5 @@ Si vous souhaitez contribuer à ce projet, vous êtes bienvenus ! Vous pouvez fa
 
 ## Lien vers le projet complet
 
-Vous pouvez suivre l'évolution du projet sur [mon compte GitHub](#).
+Vous pouvez suivre l'évolution du projet sur [mon compte GitHub](https://github.com/Jenovickbg/detection_anomalie.git).
 
